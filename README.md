@@ -61,6 +61,7 @@ Explore the documentation for our various tools below. Each link leads to a deta
 - [Git Cheatsheet](git-cheatsheet.md) - Quick reference for common Git commands and workflows.
 - [Docker Run to Compose](docker-run-to-compose.md) - Convert Docker run commands to Docker Compose file format.
 - [Benchmark Builder](benchmark-builder.md) - Create and run JavaScript benchmarks to compare code performance.
+- [CURL to Code Converter](curl-to-code-converter.md) - Convert curl commands to code in 10+ programming languages instantly. Supports JavaScript, Python, Go, Java, PHP, Ruby, Rust, and C#.
 
 ### JWT Tools
 
