@@ -34,6 +34,7 @@ Explore the documentation for our various tools below. Each link leads to a deta
 - [AI Contract Generator](ai-contract-generator.md) - Generate professional legal contracts with AI assistance. Multi-step wizard for NDAs, employment agreements, service contracts, and more.
 - [AI Dork Builder](osint-dork-builder.md) - Build powerful search dorks with 7000+ prebuilt queries, visual mix & match builder, and AI-powered generation. 14 categories for security research.
 - [AI CVE Explorer](cve-explorer.md) - Search and analyze CVEs with EPSS exploitation scores, CISA KEV alerts, CVSS metrics, and AI-powered explanations. Track vulnerabilities with a watchlist.
+- [AI SQL Query Generator](ai-sql-generator.md) - Generate, explain, and optimize SQL queries from natural language and schema descriptions. Supports multiple dialects and visual building.
 
 ### Text & Document
 
@@ -253,6 +254,7 @@ Many tools in the Tools Suite have dedicated subdomains/IP addresses for direct 
 - **Grammar Checker**: `grammar.lavx.hu`
 - **Translator**: `translate.lavx.hu`
 - **OSINT Dork Builder**: `dork.lavx.hu`
+- **SQL Query Generator**: `sql.lavx.hu`
 
 ### Development & Productivity
 - **Pastebin**: `paste.lavx.hu`
